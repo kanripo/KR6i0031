@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說觀彌勒菩薩上生兜率天經
+#+DATE: 2015-08-30 20:08:13.212609
+#+PROPERTY: JUAN 0
